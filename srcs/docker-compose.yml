@@ -13,3 +13,6 @@ services:
     container_name: wp-php
     volumes:
       - ./web:/var/www/html
+  mariadb:
+    build: requirements/mariadb/.
+    container_name: mariadb

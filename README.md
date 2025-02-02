@@ -34,7 +34,7 @@ El objetivo principal del proyecto **Inception** es familiarizarse con la creaci
 
 1. **Clona el repositorio**:
     ```bash
-    git clone https://github.com/tu_usuario/inception.git
+    git clone https://github.com/cmartingu/inception.git
     ```
 
 2. **Accede al directorio del proyecto**:
